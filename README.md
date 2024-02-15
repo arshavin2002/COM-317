@@ -3,4 +3,4 @@ OGUNDIMU EMMANUEL OLUWABUKUNMI
 COMPUTER SCIENCE HND1 COM 316 : C PROGRAMMING
 WRITE SHORT NOTE ON THE EVOLUTION OF .NET FRAMEWORK AND C#(100 W0RDS) 
 EXPLAIN THE FOLLOWING TERMS; MONO, Xamarin, COM, .Net Core, Unity, C# REST 
-Critically, Explain ANY three key functions of CLR(50words)
+Critically, Explain ANY three key functions of CLR(50words).
